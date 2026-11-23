@@ -1,0 +1,19 @@
+X: 1
+T: We Wish You A Merry Christmas
+M: 3/4
+L: 1/4
+K: Gmaj
+Q: 1/4=140
+V: 4 clef=treble
+C: English Traditional
+%%measurebox true
+%%setbarnb 1
+P:A
+D [| "G6" G G/2A/2 "B7" G/2F/2 | "C6" E E E | "A-7" A "A7" A/2B/2 A/2G/2 | "D6" F D D |
+"G6" B "B7" B/2c/2 B/2A/2 | "C6" G E D/2D/2 | "D7" E A F | "G6" G2 D |
+P:B
+"G6" G G G | "D7" F2 F | "A7" A G E | "D7" D2 A |
+"G6"B A G | "G6" d D D/2D/2 | "C6" E A "D7" F | "G6" G2  D |
+P:A
+"G6" G G/2A/2 "B7" G/2F/2 | "C6" E E E | "A-7" A "A7" A/2B/2 A/2G/2 | "D6" F D D |
+"G6" B "B7" B/2c/2 B/2A/2 | "C6" G E D/2D/2 | "D7" E A F | "G6" G3  |]

@@ -1,0 +1,30 @@
+X: 1
+T: And So It Goes
+R: Ballad
+M: 4/4
+L: 1/8
+K: Ebmaj
+Q: "Moderato" 1/4=108
+V: 4 clef=treble
+C: Billy Joel
+%%measurebox true
+"Intro" e8 |  d2c4B2 | a2 g6 |  f6 z2
+%%setbarnb 1
+[|: "Eb" [EGB]4 | "Bb" [DFB]4 | "G-" [DGB]4 "Ab" [EAc]4 | "Eb" [EGB]4 | 
+"Eb" [EGB]4 | "Bb" [DFB]4 | "G-" [DGB]4 "Ab" [EAc]4 | "Eb" [EGB]8 |
+"Bb" [DFB]4  | "Ab" [CEA]3 "Eb" ([B,EG][B,EG]4) |"G-" [DGB]8 | "Ab" [EAc]8 |
+"Bb" [DFB]8 |  "Ab" [EAc]4 |  "Eb" [EGB]8 | "Bb" [DFB]8 |
+"C-" [EGc]8 | "Bb" [DFB]8  | "Eb" ([B,EG]8 | "Eb" [B,EG]8)  :|]
+K: BbMaj
+[| "Bb" [B,DF]8 | "F" [CFA]8 | "D-" [DFA]4 "Eb" [B,EG]4 | "Bb" [B,DF]8 |
+"Bb" [B,DF]8 | "F" [CFA]8 | "D-" [DFA]4 "Eb" [B,EG]4 | "Bb" [B,DF]8 |
+ "F" [CFA]3 ([CFA][CFA]4) | "Eb" [B,EG]3 ([B,EG][B,EG]4) |  "F" [CFA]3 ([CFA][CFA]4) | "Eb"  [B,EG]3 "Bb" ([B,DF][B,DF]4) |
+"D-" [A,DF]3 ([A,DF][A,DF]4) | "Eb" [B,EG]3 ([B,EG][B,EG]4) | "Bb" [B,DF]3 ([B,DF][B,DF]4) | "F"  [CFA]3 ([CFA][CFA]4)|
+"G-" [B,DF]3 ([B,DF][B,DF]4) | "F11" [B,CF]4 "F" [A,CF]4 | "Bb" ([B,DF]8 | "Bb" [B,DF]4) z2 ]|
+K: FMaj 
+[| "F" [A,CF]3 ([A,CF][A,CF]4) | "C" [CEG]3 ([CEG][CEG]4) | "A-" [CEA]4 "Bb" [B,DF]4 | "F" [A,CF]3 ([A,CF][A,CF]4) |
+ "F" [A,CF]3 ([A,CF][A,CF]4) | "C" [CEG]3 ([CEG][CEG]4) | "A-"  [CEA]4 "Bb" [B,DF]4 | "F" [A,CF]3 ([A,CF][A,CF]4) | 
+"C" [CEG]4 [CEG]4 | "Bb" [B,DF]4 [B,DF]4 | "C" [CEG]4 [CEG]4 | "Bb" [B,DF]3 "F" ([A,CF][A,CF]4) |
+"A-" [A,CE]3 ([A,CE][A,CE]4) | "Bb" [B,DF]3 ([B,DF][B,DF]4) | "F" [A,CF]3 ([A,CF][A,CF]4) | "C" [G,CE]3 ([G,CE][G,CE]4) |
+ "D-" [A,DF]3 ([A,DF][A,DF]) | "C" [G,CE]8 |]\
+"Ending" "Db" [_A,_DF]8 | "Eb9" [B,_EF]8 | "F" ([A,CF]8 | "F" [A,CF]8 | "F" [A,CF]8 |"F" H[A,CF]8) |]

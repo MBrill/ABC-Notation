@@ -1,0 +1,19 @@
+X: 1
+T: We Wish You A Merry Christmas
+M: 3/4
+L: 1/4
+K: Gmaj
+Q: 1/4=140
+V: 4 clef=treble
+C: English Traditional
+%%measurebox true
+%%setbarnb 1
+[| "Eb6" E2 e2 "AbMaj7" dcBA | "Gm7" GG "C7" G6 | "E6b" E2  c2 "Eb79" BAGF | "AbMaj7 Dmb5G7" E8 |
+"Cm7" E2E2 "CMaj7" F2 EF | "Cm7" (3 G2B2c2 "D7" d2c2 | "GMaj7" =B3 =B "Db7" _dB_BA | "GbMaj7" B4 "Bb9"BAGF|
+"E6b" E2 e2 "AbMaj7" dcBA | "Gm7" GG "C7" G6 | "E6b" E2  c2 "Eb79" BAGF | "AbMaj7 Dmb5G7" E8 |
+"Cm7" E2E2 "CMaj7" F2 EF | "Cm7" (3 G2B2c2 "D7" d2c2 | "Gm7" BG "C7"cB "Fm7"E2 "Bb7"F2 | "Eb6"E4-EEDE|]
+[|"Bbm7" _dd3-"Eb9"dcBA |"Bbm7"B4-"Eb9"BEDE|"Bb-7"_dcdc "Eb9"dcBA|"Ab6"B4 EG (3EDE |]
+"Abm7"(3=B_B=B B2 "Db9"B_BA_G |"GbMaj7"A4-A_GAG|"Cm7"FFFF "F9"(3F_G=G C2 |"Fm7"F6 "Bb9"_G=G|]
+[| "E6b" E2 e2 "AbMaj7" dcBA | "Gm7" GG "C7" G6 | "E6b" E2  c2 "Eb79" BAGF |"AbMaj7" E6-"Abm7"E"Db9"D |
+"Cm7"E2 DE "CmMaj7"F2 EF |"Cm7"(3GBc "A-7"d2"D7"(3dec|"Gm7"B2"C7"E4"Bb7"F|"Eb6"E8 |]
+[|"Ending" "Eb69" z2 Ee dcBA| G8 |
