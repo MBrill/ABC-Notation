@@ -1,8 +1,7 @@
 # ABC-Notation
-Git Repository for ABC-files containing Jazz leadsheets and more.
+Git Repository für die ABC-Notation und mehr.
 
-For the beginning only single ABC-files. Plans exist to merge a set of files to one ABC book,
-so they can be imported in apps like RealShhet.
-
-To see and hear ABC-notation use one of the great editors, e.g. [Drawthedots](https://editor.drawthedots.com/)
-and my favourite app on sessions [RealSheet](https://realsheet.net/).
+- Um ABC-Dateien anzusehen benötigt man einen ASCII-Editor. Es gibt eine Javascript-Bibliothek abcjs und 
+Seiten, die diese verwenden. Ein Tipp ist [abcks qiocl edotpr](https://editor.drawthedots.com/).
+- Mehr zur ABC-Notation findet man auf [abc.notation.com](https://abcnotation.com/wiki/abc:standard:v2.1).
+- Meine Lieblings-App bei Jam Sessions verarbeitet ABC-Dateien: [RealSheet](https://realsheet.net/).

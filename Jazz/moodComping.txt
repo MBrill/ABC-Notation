@@ -1,0 +1,37 @@
+X:1
+%%scale 0.7
+%%pagewidth 21cm
+%%pageheight 29.6cm
+%%topmargin 2.0cm
+%%botmargin 2.0cm
+%%leftmargin 2.0cm
+%%rightmargin 2.0cm
+T:In A Sentimental Mood (Comping A-Teil)
+C:Duke Ellington
+R: Ballad
+M:4/4
+L:1/8
+K:DbMaj
+|| "Intro" z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2) | z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2) | z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2)| z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2)||
+||:"Bbm" z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2) | "Bbm"z2 [Fc]/2[AD]/2[Fc]/2[AD]/2 "Bbm6"[DB]([CF][CF]2) | "Ebm" z2 [GE']/2[FF']/2[GE']/2[FF']/2 "EbmMaj"[GE']( [B,B][B,B]2)| z2 "Ebm"  [GE']/2[FF']/2[GE']/2[FF']/2 "EbmMaj"[GE'][B,B] [CA]/2[=A,E]/2[CA]/2[=A,E]/2 |
+"Bbm"[DF]2 [Fc]/2[AD]/2[Fc]/2[AD]/2 [DB]([CF][CF]2) | "Bbm" z2 [FD']/2[=DA]/2[FD']/2[=DA]/2 [FD']4| z2 [EB]/2G/2[EB]/2G/2 [=AC'=D'G']4 | [1 [CFAD']8 :|
+
+X:2
+%%scale 0.7
+%%pagewidth 21cm
+%%pageheight 29.6cm
+%%topmargin 2.0cm
+%%botmargin 2.0cm
+%%leftmargin 2.0cm
+%%rightmargin 2.0cm
+T:In A Sentimental Mood (Comping A-Teil)
+C:Duke Ellington
+R: Ballad
+M:4/4
+L:1/8
+K:FMaj
+|| "Intro" z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2) | z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2) | z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2)| z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2)||
+||:"Dm" z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2) | "Dm"z2 [Ae]/2[cF]/2[Ae]/2[cF]/2 "Dm6"[Fd]([EA][EA]2) | "Gm" z2 [Bg]/2[Aa]/2[Bg]/2[Aa]/2 "GmMaj"[Bg]( [Dd][Dd]2)| z2 "Gm"  [Bg]/2[Aa]/2[Bg]/2[Aa]/2 "GmMaj"[Bg][Dd] [Ec]/2[^CG]/2[Ec]/2[^CG]/2 |
+"Dm"[FA]2 [Ae]/2[cF]/2[Ae]/2[cF]/2 [Fd]([EA][EA]2) | "Dm" z2 [Af]/2[^Fc]/2[Af]/2[^Fc]/2 [Af]4| z2 [Gd]/2B/2[Gd]/2B/2 [^ce^fb]4 | [1 [EAcf]8 :|
+[2 "FMaj7" z/2 z/2 [Ba]/2[Af]/2 [da]/2[Af]/2[DA]/2[A,F]/2 "Eb7" [A^CD^G]4 |] 
+[2 "DbMaj7" z/2 z/2 [GF']/2[FD']/2 [BF']/2[FD']/2[B,F]/2[F,D]/2 "B7" [F=A,B,=E]4 |] 
