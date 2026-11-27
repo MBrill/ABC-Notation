@@ -6,16 +6,14 @@ K: Cmaj
 Q: 1/4=145
 V: 4 clef=treble
 C: Rolf Zuckowski
-P:AABC
+P: A2B2A2B2A2B2A
 %%measurebox true
 %%setbarnb 1
 P:A
 G3/4F/4 [|: "CMaj7" E E "G7" D D | "A-7" C2 z D3/4E/4 | "FMaj7" F F "CMaj7" E E | "G6" D2 z "G7" D3/4E/4 |
-"D-7" F F "G7" G D3/4E/4 | "D-7" F F "G7" G G3/4F/4 | "C6" E E "G7" G G  | "D-7" D D "G7" G G3/4F/4 |
-"CMaj7" E E "G7" D D | "A-7" C z "FMaj7" A3/2 F/2 | "CMaj7"E E "G7" D D  |"CMaj7"C z  !fine! z2 :|
+"D-7" F F "G7" G D3/4E/4 | "D-7" F F "G7" G G3/4F/4 | "CMaj7" E E "G7" G G  | "D-7" D D "G7" G G3/4F/4 |
+"CMaj7" E E "G7" D D | "A-7" C z "FMaj7" A3/2 F/2 | "CMaj7"E E "G7" D D  |"CMaj7"C z  z2 !fine! :|
 P: B
-"CMaj7" E E E E | "CMaj7" E F G E | "D-7" F F F F  | "D-7" F G A F| "G7" G G A G |
-"G7"B/2 z/2 z z G  | "CMaj7" C z z2 | "CMaj7" z G, A, B, |
-P:C
-"CMaj7" E E E E | "CMaj7" E F G E | "D-7" F F F F | "D-7" F G A F |
-"G7" G G A G | "G7" B/2 z/2 z z G|1-2 "CMaj7" c z "G7" z G3/4F/4 :| [3 "CMaj7" C z "_D.C. al Fine" z "G7"G3/4F/4 |] 
+"CMaj7" E E E E | "CMaj7" E F G E | "D-7" F F F F  | "D-7" F G A F| 
+"G7" G G A G | "G7"B/2 z/2 z z G  | [1"CMaj7" C z z2 | "CMaj7" z G, A, B, :|
+[2 "CMaj7" c z z2 | z2 z "G7" "_D.C. al Fine" z G3/4F/4 |]

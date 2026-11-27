@@ -8,12 +8,12 @@ V: 4 clef=treble
 C: Mel Thorme, Robert Wells
 %%measurebox true
 %%setbarnb 1
-[| "Eb6" E2 e2 "AbMaj7" dcBA | "Fm7" GG "Bb7" G6 | "E6b" E2 c2 "Eb79" BAGF | "AbMaj7" E8 |
-"Cm7" E2 E2 "CMaj7" F2 EF | "Cm7" (3 G2B2c2 "D7" d2c2 | "GMaj7" =B3 =B "Db7" _d=BBA | "GbMaj7" B4 "Bb9"BAGF|
-"E6b" E2 e2 "AbMaj7" dcBA | "Gm7" GG "C7" G6 | "E6b" E2  c2 "Eb79" BAGF | "AbMaj7" E8 |
-"Cm7" E2E2 "CmMaj7" F2 EF | "Cm7" (3 G2B2c2 "D7" d2 z c | "Fm7" BG cB "Bb7"E2 F2 | "Eb6"E4-E "F7alt"EDE|
-"Bbm7" _dd3-"Eb9"dcBA |"Bbm7"B4-"Eb9"BEDE|"Bb-7"_dcdc "Eb9"dcBA|"Ab6"B4 EG (3EDE |
-"Abm7"=BB=BB "Db79"=BBA_G|"GbMaj7"A4-A _GA_G | "Cm7"FFFF "F9"(3F_G=G C2 |"Fm7"F6 "Bb9"_G=G|
-"E6b" E2 e2 "AbMaj7" dcBA | "Fm7" GG "Bb7"G6 | "E6b" E2  c2 "Eb79" BAGF |"AbMaj7" E6-E "Db9"D |
-"Cm7"E2 DE "CmMaj7"F2 EF |"Cm7"(3GBc "D7"d2 (3dec |"Fm7"B2E4"Bb7"F2|"Eb6"E8 |]
-"__Ending"z2 "Eb69"Ee "rit."dcBA| !fermata!G8 |]
+[| "Eb6" E2 e2 "AbMaj7" dcBA | "F-7" GG "Bb7" G6 | "E6b" E2 c2 "Eb79" BAGF | "AbMaj7" E8 |
+"C-7" E2 E2 "CMaj7" F2 EF | "A-7b5" (3 G2B2c2 "D7" d2c2 | "GMaj7" =B3 =B "Db7" _d=BBA | "GbMaj7" B4 "Bb9"BAGF|
+"E6b" E2 e2 "AbMaj7" dcBA | "G-7" GG "C7" G6 | "E6b" E2  c2 "Eb79" BAGF | "AbMaj7" E8 |
+"C-7" E2E2 "CmMaj7" F2 EF | "A-7b5" (3 G2B2c2 "D7" d2 z c | "F-7" BG cB "Bb7"E2 F2 | "Eb6"E4-E "F7alt"EDE|
+"Bb-7" _dd3-"Eb9"dcBA |"Bb-7"B4-"Eb9"BEDE|"Bb-7"_dcdc "Eb9"dcBA|"Ab6"B4 EG (3EDE |
+"Ab-7"=BB=BB "Db79"=BBA_G|"GbMaj7"A4-A _GA_G | "C-7"FFFF "F9"(3F_G=G C2 |"F-7"F6 "Bb9"_G=G|
+"E6b" E2 e2 "AbMaj7" dcBA | "F-7" GG "Bb7"G6 | "E6b" E2  c2 "Eb79" BAGF |"AbMaj7" E6-E "Db9"D |
+"C-7"E2 DE "CmMaj7"F2 EF |"A-7b5"(3GBc "D7"d2 (3dec |"F-7"B2E4"Bb7"F2|"Eb6"E8 |]
+"_Ending"z2 "Eb69"Ee "rit."dcBA| !fermata!G8 |]
